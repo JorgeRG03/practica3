@@ -30,3 +30,13 @@ section{
 footer{
 	
 }
+section input[type="button"]{
+	margin: 1em;
+}
+section article{
+	background-size: cover;
+	height: 200px;
+	display: inline-block;
+	margin: 1;
+	width: 25%;
+}
