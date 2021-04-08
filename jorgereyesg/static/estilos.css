@@ -1,1 +1,32 @@
-estilos
+body{
+	
+	background-color: ;
+}
+header,nav,section,aside,footer{
+	background-color: #ddd;
+	border-radius: 5px;
+	color: black;
+	margin: 1%;
+	padding: 1%;
+	text-align: center;
+}
+
+img{
+	max-height: 100%;
+	max-width: 100%;
+}
+aside,section{
+	display: inline-block;
+	min-height: 500px;
+	vertical-align: top;
+}
+aside{
+	width: 20%;
+}
+section{
+	width: 71%;
+}
+
+footer{
+	
+}
